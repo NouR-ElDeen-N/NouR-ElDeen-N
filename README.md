@@ -7,11 +7,24 @@
 <p align="center">Turning business data into reliable metrics, meaningful insights, and practical analytical solutions.</p>
 
 <p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-1A353A?style=flat-square&logo=powerbi&logoColor=F3C969" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-1A353A?style=flat-square&logo=postgresql&logoColor=5DCEC3" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-1A353A?style=flat-square&logo=microsoftexcel&logoColor=5DCEC3" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1A353A?style=flat-square&logo=postgresql&logoColor=5DCEC3" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-24252B?style=flat-square&logo=powerbi&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-24252B?style=flat-square&logo=microsoftexcel&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-24252B?style=flat-square&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="DAX" src="https://img.shields.io/badge/DAX-24252B?style=flat-square&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-24252B?style=flat-square&logo=microsoftsqlserver&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-24252B?style=flat-square&logo=postgresql&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
 </p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-24252B?style=flat-square&logo=python&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-24252B?style=flat-square&logo=typescript&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-24252B?style=flat-square&logo=javascript&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-24252B?style=flat-square&logo=nodedotjs&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-24252B?style=flat-square&logo=nestjs&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-24252B?style=flat-square&logo=docker&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+</p>
+
+<p align="center"><sub>Core analytics tools · Databases · Development background · Python (currently developing)</sub></p>
 
 ---
 
@@ -48,7 +61,7 @@ I'm continuously developing my skills in **Analytics Engineering and Data Engine
 - **Development Tools:** GitHub, Docker
 
 ### Currently Learning
-- Python for Data Analysis
+- Python for Data Analysis (foundational level)
 - Analytics Engineering & Data Engineering
 
 ---
