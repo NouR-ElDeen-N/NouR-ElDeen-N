@@ -1,57 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-<title id="title">Nour Eldin Ashour — Data Analyst and Business Intelligence</title>
-<desc id="desc">Minimal dark professional banner with teal and gold accents and a subtle analytics illustration.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Nour Eldin Ashour — Data Analytics and Business Intelligence</title>
+<desc id="desc">Professional charcoal and gold GitHub profile banner with a subtle analytical chart.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" x2="1" y1="1" y2="0">
-    <stop stop-color="#09141D"/><stop offset=".58" stop-color="#10252D"/><stop offset="1" stop-color="#12343C"/>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#101115"/><stop offset=".55" stop-color="#191A20"/><stop offset="1" stop-color="#25221F"/>
   </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop stop-color="#42D9C8"/><stop offset=".6" stop-color="#4EBDB4"/><stop offset="1" stop-color="#D9AE67"/>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#9D733A"/><stop offset=".45" stop-color="#E5BD7A"/><stop offset=".78" stop-color="#F0D8A6"/><stop offset="1" stop-color="#B48242"/>
   </linearGradient>
-  <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
-    <stop stop-color="#173B42" stop-opacity=".8"/><stop offset="1" stop-color="#0B1B25" stop-opacity=".86"/>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#25252A"/><stop offset="1" stop-color="#131418"/>
   </linearGradient>
-  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-    <path d="M42 0H0V42" fill="none" stroke="#B5E1DD" stroke-width="1" opacity=".12"/>
+  <radialGradient id="warm"><stop stop-color="#8D6A35" stop-opacity=".17"/><stop offset="1" stop-color="#8D6A35" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+    <path d="M44 0H0V44" fill="none" stroke="#C9B083" stroke-width="1" opacity=".09"/>
   </pattern>
-  <clipPath id="clip"><rect width="1280" height="360" rx="22"/></clipPath>
+  <clipPath id="outer"><rect width="1280" height="400" rx="18"/></clipPath>
 </defs>
-<g clip-path="url(#clip)">
-  <rect width="1280" height="360" fill="url(#bg)"/>
-  <path d="M715-40L1260-40L1320 360L820 360Z" fill="#2E8B84" opacity=".08"/>
-  <rect x="0" y="0" width="1280" height="360" fill="url(#grid)" opacity=".33"/>
-  <rect x="0" y="0" width="1280" height="5" fill="url(#accent)"/>
-  <path d="M0 353H1280" stroke="#49D2C5" opacity=".2"/>
-  <text x="76" y="69" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="20" letter-spacing="3.6" fill="#5DDBCC">DATA ANALYTICS  /  BUSINESS INTELLIGENCE</text>
-  <rect x="76" y="92" width="53" height="4" rx="2" fill="#DEB46D"/>
-  <text x="71" y="176" font-family="Arial,Helvetica,sans-serif" font-weight="750" font-size="67" letter-spacing="1.5" fill="#F5FAF8">NOUR ELDIN</text>
-  <text x="71" y="252" font-family="Arial,Helvetica,sans-serif" font-weight="750" font-size="67" letter-spacing="1.5" fill="#F5FAF8">ASHOUR</text>
-  <text x="77" y="314" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="2.3" fill="#B2CDCD">PREPARE  ·  MODEL  ·  ANALYZE  ·  BUILD</text>
-  <g transform="translate(857 64)">
-    <rect width="344" height="240" rx="20" fill="url(#card)" stroke="#5AA9A2" stroke-opacity=".28"/>
-    <circle cx="29" cy="27" r="4.5" fill="#DDAE66"/>
-    <circle cx="47" cy="27" r="4.5" fill="#48D6C5"/>
-    <circle cx="65" cy="27" r="4.5" fill="#456D78"/>
-    <line x1="27" y1="49" x2="316" y2="49" stroke="#9BCBC8" opacity=".16"/>
-    <text x="28" y="76" fill="#9CC7C4" font-family="Arial,Helvetica,sans-serif" letter-spacing="2.5" font-size="13">BUSINESS SIGNALS</text>
-    <line x1="30" y1="181" x2="318" y2="181" stroke="#79A6A9" opacity=".14"/>
-    <line x1="30" y1="140" x2="318" y2="140" stroke="#79A6A9" opacity=".12"/>
-    <line x1="30" y1="100" x2="318" y2="100" stroke="#79A6A9" opacity=".12"/>
-    <g fill="#31968F" opacity=".52">
-      <rect x="38" y="155" width="19" height="45" rx="4"/>
-      <rect x="72" y="135" width="19" height="65" rx="4"/>
-      <rect x="106" y="150" width="19" height="50" rx="4"/>
-      <rect x="140" y="118" width="19" height="82" rx="4"/>
-      <rect x="174" y="137" width="19" height="63" rx="4"/>
-      <rect x="208" y="106" width="19" height="94" rx="4"/>
-      <rect x="242" y="126" width="19" height="74" rx="4"/>
-      <rect x="276" y="94" width="19" height="106" rx="4"/>
+<g clip-path="url(#outer)">
+  <rect width="1280" height="400" fill="url(#bg)"/>
+  <circle cx="1030" cy="160" r="370" fill="url(#warm)"/>
+  <path d="M740-20H1280V400H850Z" fill="#D8B46F" opacity=".025"/>
+  <rect width="1280" height="400" fill="url(#grid)" opacity=".40"/>
+  <rect x="0" y="0" width="1280" height="6" fill="url(#gold)"/>
+  <rect x="0" y="395" width="1280" height="5" fill="url(#gold)" opacity=".45"/>
+  <rect x="72" y="69" width="52" height="3" rx="1.5" fill="#DDB875"/>
+  <text x="141" y="77" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="18" letter-spacing="3" fill="#E0BA79">DATA ANALYTICS / BUSINESS INTELLIGENCE</text>
+  <text x="69" y="179" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="71" letter-spacing=".6" fill="#F7F4EC">NOUR ELDIN</text>
+  <text x="69" y="260" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="71" letter-spacing=".6" fill="#F7F4EC">ASHOUR</text>
+  <path d="M74 292H643" stroke="url(#gold)" stroke-width="1.5" opacity=".65"/>
+  <text x="75" y="340" font-family="Arial,Helvetica,sans-serif" font-weight="500" font-size="20" letter-spacing="2.4" fill="#DBBF8D">PREPARE   ·   MODEL   ·   ANALYZE   ·   BUILD</text>
+  <g transform="translate(842 65)">
+    <rect x="0" y="0" width="364" height="276" rx="18" fill="url(#panel)" stroke="#9C8059" stroke-opacity=".5" stroke-width="1.5"/>
+    <rect x="20" y="19" width="6" height="6" rx="3" fill="#DDB875"/>
+    <rect x="36" y="19" width="6" height="6" rx="3" fill="#81705B"/>
+    <rect x="52" y="19" width="6" height="6" rx="3" fill="#4E4946"/>
+    <line x1="24" y1="44" x2="339" y2="44" stroke="#BFA27A" opacity=".24"/>
+    <text x="25" y="76" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2.6" fill="#DAB87E">BUSINESS SIGNALS</text>
+    <g stroke="#8B7D69" stroke-opacity=".24" stroke-width="1">
+      <line x1="30" y1="111" x2="334" y2="111"/>
+      <line x1="30" y1="155" x2="334" y2="155"/>
+      <line x1="30" y1="199" x2="334" y2="199"/>
     </g>
-    <path d="M48 157 L82 144 L116 160 L150 125 L184 135 L218 104 L252 119 L286 83" stroke="#E3BD7E" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <g fill="#EBC987" stroke="#17333B" stroke-width="3">
-      <circle cx="48" cy="157" r="5"/><circle cx="82" cy="144" r="5"/><circle cx="116" cy="160" r="5"/><circle cx="150" cy="125" r="5"/><circle cx="184" cy="135" r="5"/><circle cx="218" cy="104" r="5"/><circle cx="252" cy="119" r="5"/><circle cx="286" cy="83" r="5"/>
+    <g fill="#B48A4A" opacity=".40">
+      <rect x="38" y="161" width="21" height="65" rx="3"/>
+      <rect x="73" y="175" width="21" height="51" rx="3"/>
+      <rect x="108" y="143" width="21" height="83" rx="3"/>
+      <rect x="143" y="156" width="21" height="70" rx="3"/>
+      <rect x="178" y="134" width="21" height="92" rx="3"/>
+      <rect x="213" y="147" width="21" height="79" rx="3"/>
+      <rect x="248" y="112" width="21" height="114" rx="3"/>
+      <rect x="283" y="130" width="21" height="96" rx="3"/>
     </g>
-    <text x="29" y="225" fill="#80BDB7" font-family="Arial,Helvetica,sans-serif" font-size="12.5" letter-spacing="2.4">INSIGHT   →   DECISION</text>
+    <path d="M48 171L83 150L118 159L153 130L188 142L223 113L258 121L293 94" fill="none" stroke="#E4BE7F" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#F0D5A0" stroke="#222126" stroke-width="3">
+      <circle cx="48" cy="171" r="5"/><circle cx="83" cy="150" r="5"/><circle cx="118" cy="159" r="5"/><circle cx="153" cy="130" r="5"/><circle cx="188" cy="142" r="5"/><circle cx="223" cy="113" r="5"/><circle cx="258" cy="121" r="5"/><circle cx="293" cy="94" r="5"/>
+    </g>
+    <text x="28" y="259" font-family="Arial,Helvetica,sans-serif" font-size="12.5" letter-spacing="2.1" fill="#BBA784">INSIGHT  →  DECISION</text>
   </g>
 </g>
 </svg>
