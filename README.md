@@ -1,8 +1,17 @@
-# Hi, I'm Nour Eldin Ashour
+<p align="center">
+  <img src="./assets/hero.svg" alt="Nour Eldin Ashour | Data Analytics and Business Intelligence" width="100%" />
+</p>
 
-**Data Analyst | Business Intelligence**
+<h2 align="center">Data Analyst · Business Intelligence</h2>
 
-I turn business data into reliable metrics, meaningful insights, and practical analytical solutions.
+<p align="center">Turning business data into reliable metrics, meaningful insights, and practical analytical solutions.</p>
+
+<p align="center">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-1A353A?style=flat-square&logo=powerbi&logoColor=F3C969" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-1A353A?style=flat-square&logo=postgresql&logoColor=5DCEC3" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-1A353A?style=flat-square&logo=microsoftexcel&logoColor=5DCEC3" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1A353A?style=flat-square&logo=postgresql&logoColor=5DCEC3" />
+</p>
 
 ---
 
@@ -44,7 +53,7 @@ I'm continuously developing my skills in **Analytics Engineering and Data Engine
 
 ---
 
-## Featured Projects
+## Selected Work
 
 ### CENTRIVA — Retail Intelligence Dashboard
 **Power BI | Power Query | DAX | Retail Analytics**
@@ -83,7 +92,7 @@ An operational inventory management system designed around business workflows, d
 
 ---
 
-## Let's Connect
+## Connect
 
 I'm open to freelance projects and remote opportunities in Data Analytics, Business Intelligence, and related data solutions.
 
