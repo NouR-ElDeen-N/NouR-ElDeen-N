@@ -24,89 +24,69 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-24252B?style=flat-square&logo=docker&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
 </p>
 
-<p align="center"><sub>Core analytics tools · Databases · Development background · Python (currently developing)</sub></p>
+<p align="center"><sub>Analytics · Databases · Backend background · Python (learning)</sub></p>
 
 ---
 
 <img src="./assets/sections/about-me.svg" alt="About Me" height="43" />
 
-I'm a Data Analyst focused on building end-to-end analytics solutions — from understanding business requirements and exploring data to cleaning, transforming, validating, and modeling datasets.
+I'm a Data Analyst working across data preparation, analysis, and reporting. I like getting the basics right: understanding the business question, checking the data, and making sure the metrics are calculated correctly before building a dashboard.
 
-My work includes defining KPIs, developing interactive dashboards, analyzing business performance, and communicating actionable insights to support better decisions.
+I mainly work with **Power BI, Excel, and SQL**. My portfolio includes retail, customer service, and inventory projects, each with its own questions and technical challenges.
 
-My projects cover **Retail & Sales Analytics, Customer Service Analytics, and Inventory Management**, with a strong focus on data quality, business logic, and analytical accuracy.
-
-With a background in **Backend Development**, I also work on system design, database modeling, business workflows, and data integrity.
-
-I'm continuously developing my skills in **Analytics Engineering and Data Engineering**, with an emphasis on reliable, scalable, and maintainable data solutions.
+I also have a **backend development background**, which helps me think about database design, business rules, and the systems behind the data. I'm currently improving my Python skills and learning more about analytics engineering and data engineering.
 
 ---
 
 <img src="./assets/sections/technical-skills.svg" alt="Technical Skills" height="43" />
 
-### Data Analytics & Business Intelligence
-- **Power BI:** Power Query, Data Modeling, DAX Measures, Interactive Dashboards
-- **Microsoft Excel:** Advanced Formulas, Power Query, Power Pivot, PivotTables, Reporting
-- **Data Preparation:** Data Profiling, Cleaning, Transformation & Validation
-- **Business Analytics:** EDA, KPI Definition, Performance Analysis & Reporting
+- **Power BI:** Power Query, data modeling, DAX measures, interactive reports
+- **Excel:** Advanced formulas, Power Query, Power Pivot, PivotTables, VBA
+- **Data analysis:** Data profiling, cleaning, validation, EDA, KPI design, performance analysis
+- **SQL & databases:** SQL Server, PostgreSQL, querying, relational design, constraints, migrations
+- **Backend & development:** TypeScript, JavaScript, Node.js, NestJS, REST APIs, Docker, GitHub
 
-### SQL & Databases
-- **Databases:** Microsoft SQL Server, PostgreSQL
-- **SQL:** Data Querying, Joins, Aggregations & Relational Data Modeling
-- **Database Engineering:** Schema Design, Constraints, Data Integrity & Versioned SQL Migrations
-
-### Backend & Systems Development
-- **Technologies:** TypeScript, JavaScript, Node.js, NestJS
-- **System Design:** Business Rules, Workflow Design & REST APIs
-- **Development Tools:** GitHub, Docker
-
-### Currently Learning
-- Python for Data Analysis (foundational level)
-- Analytics Engineering & Data Engineering
+**Currently learning:** Python for data analysis, analytics engineering, and data engineering.
 
 ---
 
 <img src="./assets/sections/selected-work.svg" alt="Selected Work" height="43" />
 
 ### CENTRIVA — Retail Intelligence Dashboard
-**Power BI | Power Query | DAX | Retail Analytics**
+*Power BI · Power Query · DAX · Retail Analytics*
 
-A business intelligence project investigating retail performance, revenue growth, customer activity, product performance, profitability, and returns.
+A retail analytics project covering revenue growth, customers, products, margins, and returns.
 
-- Analyzed revenue growth drivers and store-level contributions.
-- Explored customer cohorts, markets, products, and brands.
-- Developed interactive reports and business-focused insights.
-- Distinguished supported findings from assumptions that required further evidence.
+- Investigated the drivers behind the large revenue increase in 2018. About **92.5% of the increase** was associated with 11 existing stores that had no recorded sales in the available 2017 data — not necessarily new store openings.
+- Explored customer cohorts, markets, brands, and product performance, then turned the findings into recommendations.
 
 ### SALLA — Call Center Performance Analytics
-**Power BI | Power Query | DAX | Data Modeling**
+*Power BI · Power Query · DAX · Data Modeling*
 
-An analytical project evaluating call center performance, response timeliness, and service efficiency across three projects.
+An analysis of call center performance across three projects from February to April 2022.
 
-- Prepared, validated, and modeled operational data.
-- Developed KPI measures, including a weighted Average Speed of Answer (ASA).
-- Investigated unusual observations and compared performance under similar workloads.
-- Produced analytical findings and recommendations.
+- Prepared the data, checked its quality, built the model, and developed performance measures — including a **weighted Average Speed of Answer (ASA)**.
+- Investigated unusual March observations and compared days with similar call volumes but different response performance. The results showed why call volume alone was not enough to explain the differences.
+
+### MISUO — Furniture Sales & Delivery Analytics
+*Excel · Power Query · Power Pivot · PivotTables · VBA*
+
+An Excel analytics project using training data to examine furniture sales and delivery operations.
+
+- Cleaned and standardized the data in Power Query, including removing **14 duplicate records**. Built an interactive Excel dashboard with PivotTables, a shared month filter, and VBA controls.
+- Looked beyond sales performance to delivery timing: **50% of deliveries with enough timing information** were on time (42 of 84). That distinction mattered when defining the delivery KPI.
 
 ### Inventory Management System
-**PostgreSQL | NestJS | TypeScript | System Design**
+*PostgreSQL · NestJS · TypeScript · System Design*
 
-*In Development*
+**In development** — an inventory system project based on furniture manufacturing workflows.
 
-An operational inventory management system designed around business workflows, data integrity, and traceable inventory movements.
-
-- Analyzed inventory processes and defined business rules.
-- Designed workflows, engineering contracts, and the relational data model.
-- Developed PostgreSQL schemas and versioned SQL migrations.
-- Designed the separation between historical stock movements and current inventory balances.
-- Backend implementation is collaborative and follows the defined system contracts.
-
-*Project pages and interactive reports will be linked here once the portfolio is published.*
+- Worked on business analysis, inventory rules, workflow and database design, and versioned PostgreSQL migrations.
+- Designed a separation between the **stock movement ledger** (history) and **current stock balances** (operational state).
+- Backend implementation is collaborative and follows the defined business rules and engineering contracts.
 
 ---
 
 <img src="./assets/sections/connect.svg" alt="Connect" height="43" />
 
-I'm open to freelance projects and remote opportunities in Data Analytics, Business Intelligence, and related data solutions.
-
-Feel free to connect with me on LinkedIn through the link on my GitHub profile.
+I'm open to freelance and remote work in **Data Analytics** and **Business Intelligence**. My LinkedIn is available in the social links on this GitHub profile.
