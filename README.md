@@ -7,12 +7,12 @@
 <p align="center">Turning business data into reliable metrics, meaningful insights, and practical analytical solutions.</p>
 
 <p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-24252B?style=flat-square&logo=powerbi&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-24252B?style=flat-square&logo=microsoftexcel&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
-  <img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-24252B?style=flat-square&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
-  <img alt="DAX" src="https://img.shields.io/badge/DAX-24252B?style=flat-square&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-24252B?style=flat-square&logo=microsoftsqlserver&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-24252B?style=flat-square&logo=postgresql&logoColor=E4BF7C&labelColor=24252B&color=24252B" />
+  <img src="./assets/badges/power-bi.svg" alt="Power BI" height="34" />
+  <img src="./assets/badges/excel.svg" alt="Excel" height="34" />
+  <img src="./assets/badges/power-query.svg" alt="Power Query" height="34" />
+  <img src="./assets/badges/dax.svg" alt="DAX" height="34" />
+  <img src="./assets/badges/sql-server.svg" alt="SQL Server" height="34" />
+  <img src="./assets/badges/postgresql.svg" alt="PostgreSQL" height="34" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-## About Me
+<img src="./assets/sections/about-me.svg" alt="About Me" height="43" />
 
 I'm a Data Analyst focused on building end-to-end analytics solutions — from understanding business requirements and exploring data to cleaning, transforming, validating, and modeling datasets.
 
@@ -42,7 +42,7 @@ I'm continuously developing my skills in **Analytics Engineering and Data Engine
 
 ---
 
-## Technical Skills
+<img src="./assets/sections/technical-skills.svg" alt="Technical Skills" height="43" />
 
 ### Data Analytics & Business Intelligence
 - **Power BI:** Power Query, Data Modeling, DAX Measures, Interactive Dashboards
@@ -66,7 +66,7 @@ I'm continuously developing my skills in **Analytics Engineering and Data Engine
 
 ---
 
-## Selected Work
+<img src="./assets/sections/selected-work.svg" alt="Selected Work" height="43" />
 
 ### CENTRIVA — Retail Intelligence Dashboard
 **Power BI | Power Query | DAX | Retail Analytics**
@@ -105,7 +105,7 @@ An operational inventory management system designed around business workflows, d
 
 ---
 
-## Connect
+<img src="./assets/sections/connect.svg" alt="Connect" height="43" />
 
 I'm open to freelance projects and remote opportunities in Data Analytics, Business Intelligence, and related data solutions.
 
